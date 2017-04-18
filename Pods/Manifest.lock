@@ -1,0 +1,15 @@
+PODS:
+  - HYBMasonryAutoCellHeight (2.0.1):
+    - Masonry (~> 0.6)
+  - Masonry (0.6.4)
+
+DEPENDENCIES:
+  - HYBMasonryAutoCellHeight (~> 2.0.0)
+
+SPEC CHECKSUMS:
+  HYBMasonryAutoCellHeight: 9296583777080d32ba6257f55e52b7334dd481fc
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+
+PODFILE CHECKSUM: d9a56b9f5b0450286cad128b1fdbb21f84961085
+
+COCOAPODS: 1.1.1
